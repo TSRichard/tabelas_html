@@ -11,6 +11,7 @@ Este arquivo HTML faz parte dos meus estudos sobre **tabelas em HTML**. Aprendi 
 | Arquivo | Descrição |
 |---------|-----------|
 | `tabelas.html` | Demonstra a criação de tabelas HTML com diferentes níveis de complexidade |
+| `README.md` | Resumo do arquivo tabelas.html e explicação de todas as tags utilizadas |
 
 ## 🎯 O que aprendi
 

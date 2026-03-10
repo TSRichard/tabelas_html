@@ -62,6 +62,7 @@ Este arquivo HTML faz parte dos meus estudos sobre **tabelas em HTML**. Aprendi 
 ```
 
 ### Estrutura Semântica da Tabela:
+```
 ┌─────────────────────────────────────┐
 │             <thead>                  │
 │  ┌─────────────────────────────────┐ │
